@@ -1,5 +1,6 @@
 # school-learning-management-system
-Its all about learning management system of a school. I have used Python, Django, HTML, CSS, Bootstrap for this project.
+Its all about learning management system of a school. I have used Python, Django, Authentication System, HTML, CSS, Bootstrap for this project.
+
 ![HomePage](https://user-images.githubusercontent.com/68065676/121626221-dad17f80-ca96-11eb-954a-5f622fc4829b.png)
 ![screencapture-127-0-0-1-8000-curriculum-6th-class-6-mathematics-create-2021-06-11-08_25_55](https://user-images.githubusercontent.com/68065676/121626251-e7ee6e80-ca96-11eb-9bf4-690e63bb5a7b.png)
 ![screencapture-127-0-0-1-8000-curriculum-6th-class-2021-06-11-08_25_20](https://user-images.githubusercontent.com/68065676/121626262-ee7ce600-ca96-11eb-845f-a31d0d673076.png)
